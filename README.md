@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Agneahny
 - 👀 Interrese em comer
 - 🌱 I’m currently learning ... desenvolvimento de web
-- 💞️ I’m looking to collaborate on ... na cantina 
+- 💞️ I’m looking to collaborate on ... cantina
 - 📫 How to reach me ... com um x tudo e uma coquinha
 
 <!---
